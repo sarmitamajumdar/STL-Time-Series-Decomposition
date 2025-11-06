@@ -24,3 +24,19 @@ Yₜ = Tₜ + Sₜ + Rₜ
 
 pip install -r requirements.txt
 
+---
+
+## License
+
+This project is licensed under the MIT License
+
+---
+
+### Author
+
+### Sarmita Majumdar
+Data Science Writer & Researcher | Exploring AI, Python & Time Series Analytics
+ |Medium: https://sarmita-majumdar.medium.com
+ | LinkedIn: https:// linkedin.com/in/sarmitamajumdar
+ | GitHub: https://github.com/sarmitamajumdar 
+
