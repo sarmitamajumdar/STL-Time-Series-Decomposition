@@ -17,3 +17,10 @@ Using `statsmodels`, `pandas`, and `matplotlib`, we break down complex time seri
 ## Mathematically:
 
 Yₜ = Tₜ + Sₜ + Rₜ
+
+---
+
+## Installtion:
+
+pip install -r requirements.txt
+
